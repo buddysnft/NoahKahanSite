@@ -1,0 +1,27 @@
+{
+  "name": "noah-kahan-tour-site",
+  "version": "1.0.0",
+  "description": "**Status:** Ready for SwiftBot build   **Created:** 2026-03-05   **Timeline:** MVP in 2-4 weeks, prototype in 24-48 hours",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tailwindcss/postcss": "^4.2.1",
+    "@types/node": "^25.3.4",
+    "@types/react": "^19.2.14",
+    "autoprefixer": "^10.4.27",
+    "next": "^16.1.6",
+    "postcss": "^8.5.8",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
+    "tailwindcss": "^4.2.1",
+    "typescript": "^5.9.3"
+  }
+}
